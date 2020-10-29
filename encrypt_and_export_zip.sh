@@ -1,5 +1,5 @@
 #!/bin/bash
-# encrypts all directories in current directory and removes original source
+# encrypts all directories in current directory and moves them to path specified
 echo "Path should not include final backslash"
 echo "Please call script in intended directory"
 echo -n 'Enter password: '

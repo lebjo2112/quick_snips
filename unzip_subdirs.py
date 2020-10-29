@@ -1,3 +1,4 @@
+#unzip unencrypted zip files in all subdirectories
 import os, subprocess
 
 dir = str(input("Enter path to dir: ")) + '/'

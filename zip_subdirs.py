@@ -1,3 +1,4 @@
+# compress all second level subdirectories
 import os, subprocess
 
 dir = str(input("Enter path to dir: ")) + '/'
